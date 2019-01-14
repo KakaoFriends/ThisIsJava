@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap02/src/VariableExample.java" afterDir="false" />
+    <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="chap01 1.5.1 주석 사용하기">
+      <change afterPath="$PROJECT_DIR$/chap01/src/RunStatementExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap02/src/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/src/VariableExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap02/src/VariableExample.java">
+        <entry file="file://$PROJECT_DIR$/chap01/src/RunStatementExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="161">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -38,6 +40,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/chap01/src/Hello.java" />
+        <option value="$PROJECT_DIR$/chap01/src/RunStatementExample.java" />
         <option value="$PROJECT_DIR$/chap02/src/VariableExample.java" />
       </list>
     </option>
@@ -66,7 +71,24 @@
             <path>
               <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
+              <item name="chap01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
+              <item name="chap01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
               <item name="chap02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
+              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -79,7 +101,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547449255424" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547452650774" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -106,12 +128,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547448626555</updated>
-      <workItem from="1547448629933" duration="621000" />
+      <workItem from="1547448629933" duration="3855000" />
     </task>
+    <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
+      <created>1547449332233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547449332233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chap01 1.5.1 주석 사용하기">
+      <created>1547449765070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547449765071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="3855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -122,13 +159,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12550336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.17730497" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49932885" visible="true" weight="0.17730497" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067115" side_tool="true" weight="0.17730497" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -150,11 +187,49 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chap02 2.1.3 변수값 읽기" />
+    <MESSAGE value="chap01 1.5.1 주석 사용하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap01 1.5.1 주석 사용하기" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap01/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="64" lean-forward="true" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap02/src/VariableExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="184">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap01/src/RunStatementExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
