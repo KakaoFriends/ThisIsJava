@@ -11,6 +11,7 @@
 2. 변수와 타입
    > [실습 예제](https://github.com/KakaoFriends/ThisIsJava/tree/master/chap02/src)
 3. 연산자
+   > [실습 예제](https://github.com/KakaoFriends/ThisIsJava/tree/master/chap03/src)
 4. 조건문과 반복문
 5. 참조 타입
 6. 클래스
