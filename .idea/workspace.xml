@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap06/chap06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/Korean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/KoreanExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap06/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap06/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap06/src/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap06/src/CarExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,35 +18,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap06/src/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap06/src/Korean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="414">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap06/src/KoreanExample.java">
+        <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="275">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,10 +64,10 @@
         <option value="$PROJECT_DIR$/chap05/src/ArrayInArrayExample.java" />
         <option value="$PROJECT_DIR$/chap05/src/MainStringArrayArgument.java" />
         <option value="$PROJECT_DIR$/chap05/src/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/chap06/src/KoreanExample.java" />
+        <option value="$PROJECT_DIR$/chap06/src/Korean.java" />
         <option value="$PROJECT_DIR$/chap06/src/Car.java" />
         <option value="$PROJECT_DIR$/chap06/src/CarExample.java" />
-        <option value="$PROJECT_DIR$/chap06/src/Korean.java" />
-        <option value="$PROJECT_DIR$/chap06/src/KoreanExample.java" />
       </list>
     </option>
   </component>
@@ -186,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547532899755" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547534418928" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -206,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KoreanExample">
+  <component name="RunManager" selected="Application.CarExample">
     <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarExample" />
       <module name="chap06" />
@@ -245,8 +227,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KoreanExample" />
         <item itemvalue="Application.CarExample" />
+        <item itemvalue="Application.KoreanExample" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.MainStringArrayArgument" />
         <item itemvalue="Application.RockScissorsPaperGame" />
@@ -265,7 +247,7 @@
       <updated>1547448626555</updated>
       <workItem from="1547448629933" duration="12719000" />
       <workItem from="1547464887873" duration="282000" />
-      <workItem from="1547465200216" duration="13994000" />
+      <workItem from="1547465200216" duration="15047000" />
     </task>
     <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
       <created>1547449332233</created>
@@ -351,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547523944447</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="chap06 6.7.3 객체 생성 후 필드값 출력">
+      <created>1547532932191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547532932191</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26995000" />
+    <option name="totallyTimeSpent" value="28048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -478,7 +467,8 @@
     <MESSAGE value="chap05 5.6.7 배열 속의 배열" />
     <MESSAGE value="chap05 5.6.6 main() 메소드의 매개 변수" />
     <MESSAGE value="chap05 자판기 프로그램" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap05 자판기 프로그램" />
+    <MESSAGE value="chap06 6.7.3 객체 생성 후 필드값 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap06 6.7.3 객체 생성 후 필드값 출력" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -577,31 +567,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap06/src/Car.java">
+    <entry file="file://$PROJECT_DIR$/chap06/src/KoreanExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap06/src/Korean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="69">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap06/src/KoreanExample.java">
+    <entry file="file://$PROJECT_DIR$/chap06/src/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="414">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
