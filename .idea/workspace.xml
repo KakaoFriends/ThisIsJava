@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chap06/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/CalculatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap06/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap06/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap06/src/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap06/src/CarExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="321">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap06/src/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap06/src/CalculatorExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -68,6 +90,8 @@
         <option value="$PROJECT_DIR$/chap06/src/Korean.java" />
         <option value="$PROJECT_DIR$/chap06/src/Car.java" />
         <option value="$PROJECT_DIR$/chap06/src/CarExample.java" />
+        <option value="$PROJECT_DIR$/chap06/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/chap06/src/CalculatorExample.java" />
       </list>
     </option>
   </component>
@@ -168,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547534418928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547539734135" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -188,7 +212,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarExample">
+  <component name="RunManager" selected="Application.CalculatorExample">
+    <configuration name="CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorExample" />
+      <module name="chap06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarExample" />
       <module name="chap06" />
@@ -211,13 +242,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockScissorsPaperGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RockScissorsPaperGame" />
-      <module name="chap11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VendingMachine" />
       <module name="chap05" />
@@ -227,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorExample" />
         <item itemvalue="Application.CarExample" />
         <item itemvalue="Application.KoreanExample" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.MainStringArrayArgument" />
-        <item itemvalue="Application.RockScissorsPaperGame" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +271,7 @@
       <updated>1547448626555</updated>
       <workItem from="1547448629933" duration="12719000" />
       <workItem from="1547464887873" duration="282000" />
-      <workItem from="1547465200216" duration="15047000" />
+      <workItem from="1547465200216" duration="16395000" />
     </task>
     <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
       <created>1547449332233</created>
@@ -340,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547532932191</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="chap06 6.7.4 객체 생성 시 생성자 선택">
+      <created>1547534464515</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547534464515</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28048000" />
+    <option name="totallyTimeSpent" value="29396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -468,7 +499,8 @@
     <MESSAGE value="chap05 5.6.6 main() 메소드의 매개 변수" />
     <MESSAGE value="chap05 자판기 프로그램" />
     <MESSAGE value="chap06 6.7.3 객체 생성 후 필드값 출력" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap06 6.7.3 객체 생성 후 필드값 출력" />
+    <MESSAGE value="chap06 6.7.4 객체 생성 시 생성자 선택" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap06 6.7.4 객체 생성 시 생성자 선택" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -594,8 +626,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap06/src/CarExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="321">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap06/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap06/src/CalculatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
