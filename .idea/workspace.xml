@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap05/chap05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/ArrayInArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/MainStringArrayArgument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap05/src/ArrayInArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="437">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap05/src/MainStringArrayArgument.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -50,6 +57,7 @@
         <option value="$PROJECT_DIR$/chap04/src/ForSumFrom1To100Example.java" />
         <option value="$PROJECT_DIR$/chap11/src/RockScissorsPaperGame.java" />
         <option value="$PROJECT_DIR$/chap05/src/ArrayInArrayExample.java" />
+        <option value="$PROJECT_DIR$/chap05/src/MainStringArrayArgument.java" />
       </list>
     </option>
   </component>
@@ -121,6 +129,12 @@
             <path>
               <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
+              <item name="chap05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
               <item name="chap11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -133,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547516721813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547518409949" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -153,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RockScissorsPaperGame">
+  <component name="RunManager" selected="Application.MainStringArrayArgument">
     <configuration name="ForSumFrom1To100Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForSumFrom1To100Example" />
       <module name="chap04" />
@@ -164,6 +178,13 @@
     <configuration name="IncreaseDecreaseOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IncreaseDecreaseOperatorExample" />
       <module name="chap03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStringArrayArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainStringArrayArgument" />
+      <module name="chap05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,6 +205,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainStringArrayArgument" />
         <item itemvalue="Application.RockScissorsPaperGame" />
         <item itemvalue="Application.ForSumFrom1To100Example" />
         <item itemvalue="Application.IncreaseDecreaseOperatorExample" />
@@ -203,7 +225,7 @@
       <updated>1547448626555</updated>
       <workItem from="1547448629933" duration="12719000" />
       <workItem from="1547464887873" duration="282000" />
-      <workItem from="1547465200216" duration="5272000" />
+      <workItem from="1547465200216" duration="6041000" />
     </task>
     <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
       <created>1547449332233</created>
@@ -261,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547512390129</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="chap05 5.6.7 배열 속의 배열">
+      <created>1547516746516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547516746516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18273000" />
+    <option name="totallyTimeSpent" value="19042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -354,7 +383,8 @@
     <MESSAGE value="chap03 3.4.3 문자열 비교" />
     <MESSAGE value="chap11 가위바위보 게임" />
     <MESSAGE value="chap11 가위바위보 게임 - 메달 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap11 가위바위보 게임 - 메달 추가" />
+    <MESSAGE value="chap05 5.6.7 배열 속의 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap05 5.6.7 배열 속의 배열" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -434,8 +464,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap05/src/ArrayInArrayExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="437">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap05/src/MainStringArrayArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
         </state>
       </provider>
     </entry>
