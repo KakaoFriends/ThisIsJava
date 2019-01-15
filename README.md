@@ -13,6 +13,7 @@
 3. 연산자
    > [실습 예제](https://github.com/KakaoFriends/ThisIsJava/tree/master/chap03/src)
 4. 조건문과 반복문
+   > [실습 예제](https://github.com/KakaoFriends/ThisIsJava/tree/master/chap04/src)
 5. 참조 타입
 6. 클래스
 7. 상속
@@ -20,6 +21,7 @@
 9. 중첩 클래스와 중첩 인터페이스
 10. 예외 처리
 11. 기본 API 클래스
+   > [실습 예제](https://github.com/KakaoFriends/ThisIsJava/tree/master/chap11/src)
 
 ## 2부
 12. 멀티 스레드
@@ -30,3 +32,8 @@
 17. JavaFX
 18. IO 기반 입출력 및 네트워킹
 19. NIO 기반 입출력 및 네트워킹
+
+## 학습 환경
+JDK(Java Development Kit) - 1.8.0_56
+
+IntelliJ IDEA 2018.3.3 (Ultimate) - Build #IU-183.5153.38, built on January 10, 2019
