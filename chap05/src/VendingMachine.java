@@ -12,8 +12,8 @@ public class VendingMachine {
                           {1000, 7} };
 
         int machineMoney = 0;
-        int inputMoney = 0;
-        int inputMenu = 0;
+        int inputMoney;
+        int inputMenu;
         String again = "y";
 
         do {
@@ -133,6 +133,10 @@ public class VendingMachine {
             System.out.println("더 구매하시겠습니까? (Y/n)");
             System.out.print("> ");
             again = scanner.next();
+            if(again.equals("N") || again.equals("n")) {
+                System.out.println("잔돈 " + machineMoney + "원을 반환하였습니다.");
+                machineMoney = 0;
+            }
         } while (again.equals("Y") || again.equals("y"));
         scanner.close();
     }
