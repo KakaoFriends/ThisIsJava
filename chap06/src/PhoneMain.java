@@ -4,7 +4,21 @@ import java.util.Scanner;
 public class PhoneMain {
     public static void main(String[] args) {
         int menu;
+        PhoneManager manager = new PhoneManager();
 
+        while(true){
+            manager.menu();
+            menu = manager.scanner.nextInt();
+            switch(menu) {
+                case 1:
+                    manager.create();
+                    break;
+                case 2:
+                case 7:
+                    System.out.println("프로그램을 종료합니다.");
+                    return;
+            }
+        }
     }
 }
 

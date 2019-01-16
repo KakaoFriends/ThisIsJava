@@ -1,22 +1,12 @@
-// 6.8.3 클래스 내부에서 메소드 호출
+// 6.10.2 정적 멤버 사용
 public class Calculator {
-    int plus(int x, int y) {
-        int result = x + y;
-        return result;
+    static double pi = 3.14159;
+
+    static int plus(int x, int y) {
+        return x + y;
     }
 
-    double avg(int x, int y) {
-        double sum = plus(x, y);
-        double result = sum / 2;
-        return result;
-    }
-
-    void execute() {
-        double result = avg(7, 10);
-        println("실행결과: " + result);
-    }
-
-    void println(String message) {
-        System.out.println(message);
+    static int minus(int x, int y) {
+        return x - y;
     }
 }
