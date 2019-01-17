@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap11/src/ArrayCopyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/EqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/FileClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/FileReaderEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/FileWriterEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/RandomExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/SearchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/StringIndexOfBadWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/StringTokenizerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/TextCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatClient/ChatClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatClient/src/ServerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/ChatServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap11/src/TextCopy.java">
+        <entry file="file://$PROJECT_DIR$/ChatClient/src/ServerEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+            <state relative-caret-position="713">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,6 +93,7 @@
         <option value="$PROJECT_DIR$/chap11/src/FileWriterEx.java" />
         <option value="$PROJECT_DIR$/chap11/src/FileClassExample.java" />
         <option value="$PROJECT_DIR$/chap11/src/TextCopy.java" />
+        <option value="$PROJECT_DIR$/ChatClient/src/ServerEx.java" />
       </list>
     </option>
   </component>
@@ -130,8 +127,12 @@
             <path>
               <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
-              <item name="chap11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ChatClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThisIsJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThisIsJava" type="462c0819:PsiDirectoryNode" />
+              <item name="ChatServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547709547797" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547710801014" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -164,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileWriterEx">
+  <component name="RunManager" selected="Application.ServerEx">
     <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EqualsExample" />
       <module name="chap11" />
@@ -193,20 +194,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokenizerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTokenizerExample" />
-      <module name="chap11" />
+    <configuration name="ServerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerEx" />
+      <module name="ChatClient" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServerEx" />
         <item itemvalue="Application.FileWriterEx" />
         <item itemvalue="Application.FileReaderEx" />
         <item itemvalue="Application.RandomExample" />
         <item itemvalue="Application.EqualsExample" />
-        <item itemvalue="Application.StringTokenizerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,7 @@
       <updated>1547448626555</updated>
       <workItem from="1547448629933" duration="12719000" />
       <workItem from="1547464887873" duration="282000" />
-      <workItem from="1547465200216" duration="56498000" />
+      <workItem from="1547465200216" duration="57981000" />
     </task>
     <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
       <created>1547449332233</created>
@@ -385,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547685251989</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="chap11 파일 입출력">
+      <created>1547709573845</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1547709573845</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69499000" />
+    <option name="totallyTimeSpent" value="70982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -404,7 +412,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.32056737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.32056737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,7 +421,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.17588653" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32056737" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.32056737" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30638298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -491,7 +499,8 @@
     <MESSAGE value="chap07 7.2 자식 클래스 사용" />
     <MESSAGE value="chap07 7.8.4 추상 메소드 선언" />
     <MESSAGE value="chap11 11.7.2 문자열 포함 여부 조사" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap11 11.7.2 문자열 포함 여부 조사" />
+    <MESSAGE value="chap11 파일 입출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap11 파일 입출력" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -892,8 +901,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap11/src/TextCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        <state relative-caret-position="322">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatClient/src/ServerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -949,7 +968,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>chap06</last-edited>
+          <last-edited>ChatClient</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
