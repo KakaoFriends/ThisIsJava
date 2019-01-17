@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d43cbc7-c01f-4891-aea6-e2e5d3963c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap08/chap08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap08/src/InterfaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/StringCharAtExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/StringIndexOfExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/FileClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/FileReaderEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/FileWriterEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/RandomExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/SearchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/StringIndexOfBadWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/StringTokenizerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/TextCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +22,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ThisIsJava" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap11/src/StringCharAtExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap11/src/StringIndexOfExample.java">
+        <entry file="file://$PROJECT_DIR$/chap11/src/TextCopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -87,6 +86,17 @@
         <option value="$PROJECT_DIR$/chap08/src/InterfaceEx.java" />
         <option value="$PROJECT_DIR$/chap11/src/StringCharAtExample.java" />
         <option value="$PROJECT_DIR$/chap11/src/StringIndexOfExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/StringIndexOfBadWord.java" />
+        <option value="$PROJECT_DIR$/chap11/src/StringTokenizerExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/ArrayCopyExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/EqualsExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/Member.java" />
+        <option value="$PROJECT_DIR$/chap11/src/SearchExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/RandomExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/FileReaderEx.java" />
+        <option value="$PROJECT_DIR$/chap11/src/FileWriterEx.java" />
+        <option value="$PROJECT_DIR$/chap11/src/FileClassExample.java" />
+        <option value="$PROJECT_DIR$/chap11/src/TextCopy.java" />
       </list>
     </option>
   </component>
@@ -133,14 +143,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547685230511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547709547797" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,37 +164,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringIndexOfExample">
-    <configuration name="AnimalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnimalExample" />
-      <module name="chap07" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DmbCellPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DmbCellPhoneExample" />
-      <module name="chap07" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfaceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceEx" />
-      <module name="chap08" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringCharAtExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCharAtExample" />
+  <component name="RunManager" selected="Application.FileWriterEx">
+    <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualsExample" />
       <module name="chap11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringIndexOfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringIndexOfExample" />
+    <configuration name="FileReaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReaderEx" />
+      <module name="chap11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileWriterEx" />
+      <module name="chap11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomExample" />
+      <module name="chap11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTokenizerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTokenizerExample" />
       <module name="chap11" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringIndexOfExample" />
-        <item itemvalue="Application.StringCharAtExample" />
-        <item itemvalue="Application.InterfaceEx" />
-        <item itemvalue="Application.AnimalExample" />
-        <item itemvalue="Application.DmbCellPhoneExample" />
+        <item itemvalue="Application.FileWriterEx" />
+        <item itemvalue="Application.FileReaderEx" />
+        <item itemvalue="Application.RandomExample" />
+        <item itemvalue="Application.EqualsExample" />
+        <item itemvalue="Application.StringTokenizerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +222,7 @@
       <updated>1547448626555</updated>
       <workItem from="1547448629933" duration="12719000" />
       <workItem from="1547464887873" duration="282000" />
-      <workItem from="1547465200216" duration="41656000" />
+      <workItem from="1547465200216" duration="56498000" />
     </task>
     <task id="LOCAL-00001" summary="chap02 2.1.3 변수값 읽기">
       <created>1547449332233</created>
@@ -368,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547625090529</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="chap11 11.7.2 문자열 포함 여부 조사">
+      <created>1547685251987</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1547685251989</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54657000" />
+    <option name="totallyTimeSpent" value="69499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -387,7 +404,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32056737" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.32056737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,7 +413,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.17588653" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.17730497" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32056737" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30638298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -473,7 +490,8 @@
     <MESSAGE value="chap06 선택 정렬, 버블 정렬" />
     <MESSAGE value="chap07 7.2 자식 클래스 사용" />
     <MESSAGE value="chap07 7.8.4 추상 메소드 선언" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap07 7.8.4 추상 메소드 선언" />
+    <MESSAGE value="chap11 11.7.2 문자열 포함 여부 조사" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap11 11.7.2 문자열 포함 여부 조사" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -776,6 +794,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/StringIndexOfExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap11/src/StringCharAtExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -783,10 +808,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap11/src/StringIndexOfExample.java">
+    <entry file="file://$PROJECT_DIR$/chap11/src/StringIndexOfBadWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/StringTokenizerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/ArrayCopyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/EqualsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/SearchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" lean-forward="true" selection-start-column="51" selection-end-column="51" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/RandomExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/FileReaderEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/FileWriterEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/FileClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/src/TextCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
         </state>
       </provider>
     </entry>
